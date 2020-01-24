@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: starwars
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Eduardo
+Implementation-Vendor-Id: com.algaworks.algamoneyapi
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/starwars
+Created-By: Maven Integration for Eclipse
+
