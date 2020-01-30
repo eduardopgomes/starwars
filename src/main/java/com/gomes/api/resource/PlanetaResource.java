@@ -59,7 +59,7 @@ public class PlanetaResource {
 		}
 	}
 	
-	@PostMapping("/{name}")
+	@PostMapping("/{id}")
 	private ResponseEntity<Planeta> buscarPorId(@RequestBody String id) {
 		Optional<Planeta> planetaEncontrada = planetaRepository.findById(id);
 		if (planetaEncontrada != null) {
